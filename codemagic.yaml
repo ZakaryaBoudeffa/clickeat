@@ -39,4 +39,4 @@ workflows:
     publishing:
       email:
         recipients:
-          - c.maouche@esi-sba.dz
+          - kz_boudeffa@esi.dz
