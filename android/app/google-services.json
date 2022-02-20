@@ -1,0 +1,178 @@
+{
+  "project_info": {
+    "project_number": "247243377460",
+    "project_id": "cliceats-1c53d",
+    "storage_bucket": "cliceats-1c53d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247243377460:android:2eb0f7959e54bddfaef361",
+        "android_client_info": {
+          "package_name": "com.chikolabs.clicandeats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYaA7Kwe-UFvEYvnar8GVRcPx-sA3zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247243377460-g0ddd6drtkd7jtsp57g67jqvd0q4b7r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chikolabs.clicandeatsadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247243377460:android:b653c9b88422b9f4aef361",
+        "android_client_info": {
+          "package_name": "com.chikolabs.clicandeatsadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247243377460-ur4dsq0d1v61h2oc5uhbqb5o246erm3p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chikolabs.clicandeatsadmin",
+            "certificate_hash": "5bcfae36d030bc761c880e937cb7931cccd526e8"
+          }
+        },
+        {
+          "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYaA7Kwe-UFvEYvnar8GVRcPx-sA3zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247243377460-g0ddd6drtkd7jtsp57g67jqvd0q4b7r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chikolabs.clicandeatsadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247243377460:android:975fd6e25eb5dc12aef361",
+        "android_client_info": {
+          "package_name": "com.chikolabs.clicandeatsrestaurant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247243377460-gguv0vutv725o54h032apfkp902hbrfs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chikolabs.clicandeatsrestaurant",
+            "certificate_hash": "5bcfae36d030bc761c880e937cb7931cccd526e8"
+          }
+        },
+        {
+          "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYaA7Kwe-UFvEYvnar8GVRcPx-sA3zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247243377460-g0ddd6drtkd7jtsp57g67jqvd0q4b7r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chikolabs.clicandeatsadmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247243377460:android:9c3c8f29953850eeaef361",
+        "android_client_info": {
+          "package_name": "com.example.clicandeatsdelivery"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247243377460-hdjhmrea3rho7ck171ifg514qqpo8ls8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.clicandeatsdelivery",
+            "certificate_hash": "5bcfae36d030bc761c880e937cb7931cccd526e8"
+          }
+        },
+        {
+          "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyYaA7Kwe-UFvEYvnar8GVRcPx-sA3zXo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247243377460-pqjnjt8nm7i4si4lllk4jc9rivjq8aan.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "247243377460-g0ddd6drtkd7jtsp57g67jqvd0q4b7r9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chikolabs.clicandeatsadmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
